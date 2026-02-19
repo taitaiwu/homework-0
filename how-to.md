@@ -50,7 +50,7 @@ git push origin master
 ### 6. 建立 Pull Request
 
 1. 前往你自己 fork 的專案頁面（`https://github.com/<你的-username>/homework-0`）
-2. 點擊 **Contribute** 或 **Compare & pull request** 按鈕
+2. 點擊 **Contribute** → **Open pull request** 按鈕
 3. 確認分支資訊：
    - base: `NCUE-CS-UNIX-2026-Spring:main`
    - compare: `<你的-username>:main`
